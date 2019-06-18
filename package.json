@@ -1,0 +1,9 @@
+{
+  "name": "ts-array-destructured-refs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.0-dev.20190618"
+  }
+}
